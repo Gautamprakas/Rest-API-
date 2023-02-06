@@ -1,0 +1,5 @@
+com\xadmin\SpringBootCrud\repository\SubjectRepository.class
+com\xadmin\SpringBootCrud\bean\Subject.class
+com\xadmin\SpringBootCrud\controller\SubjectController.class
+com\xadmin\SpringBootCrud\service\SubjectService.class
+com\xadmin\SpringBootCrud\SpringBootCrudApplication.class
